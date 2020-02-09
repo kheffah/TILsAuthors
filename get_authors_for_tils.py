@@ -179,7 +179,6 @@ _merge_affiliations()
 
 ## Format combined author and member strings
 
-
 # This assumes that if the same author has two or more affiliations, he/she
 # appears in CONSECUTIVE ROWS in the dataframe
 
@@ -219,8 +218,9 @@ for _, row in FULLDF.iterrows():
 
     # keep in memory
     done_auths.append(auth)
-    affil_no[fno] = affil
-    affid += 1
+    affil_no[affil] = fno
+    if affil_exists:
+        affid += 1
 
 AUTHSTR = AUTHSTR[2:]
 AFFILSTR = AFFILSTR[2:]
