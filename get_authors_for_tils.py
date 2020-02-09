@@ -183,7 +183,7 @@ _merge_affiliations()
 # appears in CONSECUTIVE ROWS in the dataframe
 
 affil_no = dict()
-done_auths = []
+done_auths = dict()
 AUTHSTR = ""
 AFFILSTR = ""
 
@@ -201,25 +201,34 @@ for _, row in FULLDF.iterrows():
         fmloc = len(AUTHSTR)
         faloc = len(AFFILSTR)
 
+    affil_not_exists = affil not in affil_no.keys()
+    fno = affid + 1 if affil_not_exists else affil_no[affil]
+
     # add author to author string
-    if auth not in done_auths:
+    add = False
+    if auth not in done_auths.keys():
         AUTHSTR += ', ' + auth
+        add = True
     else:
         AUTHSTR += '<sup>, </sup>'
+        if fno not in done_auths[auth]:
+            add = True
 
-    # add affiliation to this author
-    affil_exists = affil not in affil_no.keys()
-    fno = affid + 1 if affil_exists else affil_no[affil]
-    AUTHSTR += "<sup>%d</sup>" % fno
+    # add affiliation to this author -- avoid repeats for same author
+    if add:
+        AUTHSTR += "<sup>%d</sup>" % fno
 
     # add affiliation to affiliation string if not there
-    if affil_exists:
+    if affil_not_exists:
         AFFILSTR += ", <sup>%d </sup>%s" % (fno, affil)
 
     # keep in memory
-    done_auths.append(auth)
+    if auth not in done_auths.keys():
+        done_auths[auth] = [fno]
+    else:
+        done_auths[auth].append(fno)
     affil_no[affil] = fno
-    if affil_exists:
+    if affil_not_exists:
         affid += 1
 
 AUTHSTR = AUTHSTR[2:]
