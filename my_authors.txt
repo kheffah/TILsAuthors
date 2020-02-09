@@ -1,0 +1,68 @@
+Mohamed Amgad | 1
+Elisabeth Specht Stovgaard | 2
+Eva Balslev | 2
+Jeppe Thagaard | 3,4
+Weijie Chen | 5
+Sarah Dudgeon | 5
+Ashish Sharma | 1
+Jennifer K. Kerner | 6
+Carsten Denkert | 7,8,9
+Yinyin Yuan | 10,11
+Khalid AbdulJabbar | 10,11
+Stephan Wienert | 12
+Peter Savas | 13,14
+Leonie Voorwerk | 15
+Andrew H. Beck | 6
+Anant Madabhushi | 16,17
+Johan Hartman | 18
+Manu M. Sebastian | 19
+Hugo M. Horlings | 20
+Jan Hudeček | 21
+Francesco Ciompi | 22
+David A. Moore | 23
+Rajendra Singh | 24
+Elvire Roblin | 25
+Marcelo Luiz Balancin | 26
+Marie-Christine Mathieu | 27
+Jochen K. Lennerz | 28
+Pawan Kirtani | 29
+I-Chun Chen | 30,31
+Jeremy P. Braybrooke | 32,33
+Giancarlo Pruneri | 34
+Sandra Demaria | 35
+Sylvia Adams | 36
+Stuart J. Schnitt | 37
+Sunil R. Lakhani | 38
+Federico Rojo | 39,40
+Laura Comerma | 40,41
+Sunil S. Badve | 42
+Mehrnoush Khojasteh | 43
+William Fraser Symmans | 44
+Christos Sotiriou | 45,46
+Paula Gonzalez-Ericsson | 47
+Katherine L. Pogue-Geile | 48
+Rim S. Kim | 48
+David L. Rimm | 49
+Giuseppe Viale | 50
+Stephen M. Hewitt | 51
+John M.S. Bartlett | 52,53
+Frédérique Penault-Llorca | 54,55
+Shom Goel | 56
+Huang-Chun Lien | 57
+Sibylle Loibl | 58
+Zuzana Kos | 59
+Sherene Loi | 60,14
+Matthew G. Hanna | 61
+Stefan Michiels | 62,63
+Marleen Kok | 64,65
+Torsten O. Nielsen | 66
+Alexander J. Lazar | 44,67,68,69
+Zsuzsanna Bago-Horvath | 70
+Loes F.S. Kooreman | 71,72
+Jeroen A.W.M. van der Laak | 73,74
+Joel Saltz | 75
+Brandon D. Gallas | 5
+Uday Kurkure | 43
+Michael Barnes | 76
+Roberto Salgado | 77,13
+Lee A.D. Cooper | 78

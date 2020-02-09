@@ -1,0 +1,78 @@
+1. Department of Biomedical Informatics, Emory University School of Medicine, Atlanta, GA, USA
+2. Department of Pathology, Herlev and Gentofte Hospital, University of Copenhagen, Herlev, Denmark
+3. DTU Compute, Department of Applied Mathematics, Technical University of Denmark, Denmark
+4. Visiopharm A/S, Hørsholm, Denmark
+5. FDA/CDRH/OSEL/Division of Imaging, Diagnostics, and Software Reliability, Silver Spring, MD, USA
+6. PathAI, Cambridge, MA, USA
+7. Institut für Pathologie, Universitätsklinikum Gießen und Marburg GmbH, Standort Marburg, Philipps-Universität Marburg, Marburg, Germany
+8. Institute of Pathology, Philipps-University Marburg, Germany
+9. German Cancer Consortium (DKTK), Partner Site Charité, Berlin, Germany
+10. Centre for Evolution and Cancer, The Institute of Cancer Research, London, UK
+11. Division of Molecular Pathology, The Institute of Cancer Research, London, UK
+12. Institut für Pathologie, Universitätsklinikum Gießen und Marburg GmbH, Standort Marburg, Philipps-Universität Marburg, Marburg, Germany.
+13. Division of Research, Peter Mac Callum Cancer Center, Melbourne, Victoria, Australia
+14. Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia
+15. Department of Molecular Oncology &amp; Immunology, The Netherlands Cancer Institute Amsterdam, Amsterdam, The Netherlands
+16. Case Western Reserve University, Department of Biomedical Engineering, Cleveland, OH, USA
+17. Louis Stokes Cleveland Veterans Administration Medical Center, Cleveland, OH, USA
+18. Department of Oncology and Pathology, Karolinska Institutet and University Hospital, Solna, Sweden
+19. Departments of Epigenetics and Molecular Carcinogenesis, The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+20. Division of Molecular Pathology, The Netherlands Cancer Institute, Amsterdam, the Netherlands
+21. Department of Research IT, The Netherlands Cancer Institute, Amsterdam, the Netherlands
+22. Department of Pathology, Radboud University Medical Center, Nijmegen, the Netherlands
+23. Department of Pathology, UCL Cancer Institute, UK
+24. Department of Pathology and Laboratory Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+25. Université Paris-Saclay, Univ. Paris-Sud, Villejuif, France
+26. Department of Pathology, Faculty of Medicine, University of São Paulo, São Paulo, Brazil
+27. Department of Medical Biology and Pathology, Gustave Roussy Cancer Campus, Villejuif, France
+28. Department of Pathology, Massachusetts General Hospital, Boston, MA, USA
+29. Department of Histopathology, Manipal Hospitals Dwarka, New Delhi, India
+30. Department of Oncology, National Taiwan University Cancer Center, Taipei, Taiwan
+31. Department of Oncology, National Taiwan University, Taipei, Taiwan
+32. Nuffield Department of Population Health, University of Oxford, Oxford, UK
+33. Department of Medical Oncology, University Hospitals Bristol NHS Foundation Trust, Bristol, UK
+34. Pathology Department, Fondazione IRCCS Istituto Nazionale Tumori and University of Milan, School of Medicine, Milan, Italy
+35. Weill Cornell Medical College, New York, NY, USA
+36. Laura and Isaac Perlmutter Cancer Center, NYU Langone Medical Center, New York, NY, USA
+37. Department of Pathology, Brigham and Women&#39;s Hospital, Boston, MA, USA
+38. The University of Queensland Centre for Clinical Research and Pathology Queensland, Brisbane, Australia
+39. Pathology Department, CIBERONC-Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD), Madrid, Spain
+40. GEICAM-Spanish Breast Cancer Research Group, Madrid, Spain
+41. Pathology Department, CIBERONC-Hospital del Mar, Parc de Salut Mar, Barcelona, Spain
+42. Department of Pathology and Laboratory Medicine, Indiana University School of Medicine, Indianapolis, IN, USA
+43. Roche Tissue Diagnostics, Digital Pathology, Santa Clara, CA, USA
+44. Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+45. Breast Cancer Translational Research Laboratory, Institut Jules Bordet, Université Libre de Bruxelles (ULB), Brussels, Belgium
+46. ULB-Cancer Research Center (U-CRC) Université Libre de Bruxelles, Brussels, Belgium
+47. Breast Cancer Program, Vanderbilt-Ingram Cancer Center, Vanderbilt University Medical Center, Nashville, TN, USA
+48. NRG Oncology/NSABP, Pittsburgh, PA, USA
+49. Department of Pathology, Yale University School of Medicine, New Haven, CT, USA
+50. Department of Pathology, IEO, European Institute of Oncology IRCCS &amp; State University of Milan, Milan, Italy
+51. Laboratory of Pathology, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA
+52. Ontario Institute for Cancer Research, Toronto, Ontario, Canada
+53. Edinburgh Cancer Research Centre, Western General Hospital, Edinburgh, UK
+54. Department of Pathology and Molecular Pathology, Centre Jean Perrin, Clermont-Ferrand, France
+55. UMR INSERM 1240, Universite Clermont Auvergne, Clermont-Ferrand, France
+56. Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, USA
+57. Department of Pathology, National Taiwan University Hospital, Taipei, Taiwan
+58. German Breast Group, c/o GBG-Forschungs GmbH, Neu-Isenburg, Germany
+59. Department of Pathology, BC Cancer, Vancouver, British Columbia, Canada
+60. Peter MacCallum Cancer Centre, Melbourne, Australia
+61. Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY, USA
+62. Gustave Roussy, Université Paris-Saclay, Villejuif, France
+63. Université Paris-Sud, Institut National de la Santé et de la Recherche Médicale, Villejuif, France
+64. Division of Molecular Oncology &amp; Immunology, The Netherlands Cancer Institute, Amsterdam, the Netherlands
+65. Department of Medical Oncology, The Netherlands Cancer Institute, Amsterdam, the Netherlands
+66. University of British Columbia, Vancouver, British Columbia, Canada
+67. Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+68. Department of Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+69. Department of Dermatology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+70. Department of Pathology, Medical University of Vienna, Vienna, Austria
+71. GROW - School for Oncology and Developmental Biology, Maastricht University Medical Centre, Maastricht, The Netherlands
+72. Department of Pathology, Maastricht University Medical Centre, Maastricht, The Netherlands
+73. Department of Pathology, Radboud University Medical Center, Nijmegen, Netherlands
+74. Center for Medical Image Science and Visualization, Linköping University, Linköping, Sweden
+75. Department of Biomedical Informatics, Stony Brook University, Stony Brook, NY, USA
+76. Roche Diagnostics Information Solutions, Belmont, CA, USA
+77. Department of Pathology, GZA-ZNA Ziekenhuizen, Antwerp, Belgium
+78. Department of Pathology, Northwestern University Feinberg School of Medicine, Chicago, IL, USA
