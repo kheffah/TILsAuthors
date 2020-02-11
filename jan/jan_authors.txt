@@ -1,7 +1,7 @@
 Jan Hudeček | 1
-Leonie Voorwerk | 2
+Leonie Voorwerk | 38
 Maartje van Seijen | 3
-Iris Nederlof | 3
+Iris Nederlof | 38
 Michiel de Maaker | 3
 Jose van den Berg | 4
 Koen K. van de Vijver | 5
@@ -27,5 +27,5 @@ Andrew Tutt | 32
 Jacqueline A. Hall | 33
 Zuzana Kos | 34
 Roberto Salgado | 35, 36
-Marleen Kok | 2, 37
+Marleen Kok | 39
 Hugo M. Horlings | 3, 4
