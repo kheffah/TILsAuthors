@@ -1,0 +1,37 @@
+1. Department of Research IT, The Netherlands Cancer Institute, Amsterdam, The Netherlands
+2. Division of Molecular Oncology & Immunology, The Netherlands Cancer Institute, Amsterdam, The Netherlands
+3. Division of Molecular Pathology, The Netherlands Cancer Institute, Amsterdam, The Netherlands
+4. Department of Pathology, The Netherlands Cancer Institute, Amsterdam, The Netherlands
+5. Department of Pathology, Ghent University Hospital, Ghent, Belgium
+6. Department of Biometrics, The Netherlands Cancer Institute, Amsterdam, The Netherlands
+7. Department of Medicine, Perlmutter Cancer Center, New York University School of Medicine, New York, NY, USA
+8. Department of Radiation Oncology, Weill Cornell Medicine, New York, NY, USA
+9. Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA
+10. International Breast Cancer Study Group Central Pathology Office, Department of Pathology and Laboratory Medicine, IEO European Institute of Oncology IRCCS, Milan, Italy
+11. University of Milan, Milan, Italy
+12. Department of Pathology and Laboratory Medicine, Genetic Pathology Evaluation Centre, University of British Columbia, Vancouver, Canada
+13. Department of Pathology and Laboratory Medicine, Indiana University Simon Cancer Center, Indianapolis, Indiana, USA
+14. Service de Biostatistique et d'EpidÃ©miologie, Gustave Roussy, Villejuif, France
+15. CESP, Fac. de mÃ©decine - Univ. Paris-Sud, Fac. de mÃ©decine - UVSQ, INSERM, UniversitÃ© Paris-Saclay, Villejuif, France
+16. Department of Pathology, M.D. Anderson Cancer Center, Houston, TX, USA
+17. Breast Cancer Translational Research Laboratory, Institut Jules Bordet, U-CRC, UniversitÃ© Libre de Bruxelles, Brussels, Belgium
+18. Department of Pathology, Yale School of Medicine, New Haven, CT, USA
+19. Department of Medicine, Yale University School of Medicine, New Haven, CT, USA
+20. Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA
+21. Institute of Pathology, CharitÃ© UniversitÃ¤tsmedizin Berlin, Berlin, Germany
+22. Institute of Pathology, Philipps-University Marburg, Marburg, Germany
+23. German Breast Group, Neu-Isenburg, Germany
+24. Division of Research and Clinical Medicine, Peter MacCallum Cancer Centre, University of Melbourne, Melbourne, VIC, Australia
+25. Ontario Institute for Cancer Research, Toronto, ON, Canada
+26. IGMM, Edinburgh, UK
+27. Edinburgh Cancer Research Centre, Western General Hospital, Edinburgh, United Kingdom
+28. Department of Pathology and Laboratory Medicine, IRCCS Fondazion - Instituto Nazionale Tumori, Milan, Italy
+29. University of Milan, School of Medicine, Milan, Italy
+30. Department of Pathology, Brigham and Womenâ€™s Hospital, Harvard Medical School, Boston, MA, USA
+31. Clinical Trials and Statistics Unit, The Institute of Cancer Research, Surrey, UK
+32. Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK
+33. Research and Development, Vivactiv Ltd, Chesham, Buckinghamshire, UK
+34. Department of Pathology and Laboratory Medicine, University of Ottawa, Ottawa, Canada
+35. Department of Pathology, GZA-ZNA Ziekenhuizen, Antwerp, Belgium
+36. Division of Research, Peter Mac Callum Cancer Center, Melbourne, Australia
+37. Department of Medical Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands
