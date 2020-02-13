@@ -37,7 +37,7 @@ Federico Rojo | 39,40
 Laura Comerma | 40,41
 Sunil S. Badve | 42
 Mehrnoush Khojasteh | 43
-William Fraser Symmans | 44
+W. Fraser Symmans | 44
 Christos Sotiriou | 45,46
 Paula Gonzalez-Ericsson | 47
 Katherine L. Pogue-Geile | 48
