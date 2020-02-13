@@ -105,6 +105,7 @@ NOT_SUSPICIOUS = [
     'Department of Pathology, University Hospital Ghent, Belgium.',
     'Department of Pathology, Gustave Roussy, Grand Paris, France.',
     'Department of Pathology, GZA-ZNA Hospitals, Antwerp, Belgium',
+    'Department of Pathology, GZA-ZNA Hospitals, Wilrijk, Belgium.',
     'Department of Medical Oncology, Gustave Roussy, Villejuif, France.',
     'Division of Molecular Pathology, The Netherlands Cancer Institute, '
         + 'Amsterdam, the Netherlands',
@@ -143,9 +144,12 @@ def _get_suspiciously_similar_affiliations():
         print(
             "There are %d suspiciously similar affiliations that "
             "WILL BE MERGED:\n" % len(affilmap))
-        for s1, s2 in affilmap.items():
-            print(s1)
-            print(s2, "\n")
+        with open("./%s_suspicious_affiliations.txt" % paper, 'w') as f:
+            for s1, s2 in affilmap.items():
+                print(s1)
+                print(s2, "\n")
+                f.write(s1 + "\n")
+                f.write(s2 + "\n\n")
     
     return affilmap
 
@@ -172,6 +176,10 @@ affid = 0
 for _, row in FULLDF.iterrows():
     auth = row['auth']
     affil = row['affil']
+
+    # remove dots or commas at end of affiliations
+    if affil.endswith(".") or affil.endswith(","):
+        affil = affil[:-1]
     
     # make sure we know where to find this first_member
     if auth == fmname:
